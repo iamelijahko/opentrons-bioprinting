@@ -1,4 +1,4 @@
-# OpentronsBioprinting
+# OpentronscBioprinting
 Bioprinting with Opentrons.
 
 Code is from "S.S. - Slime Swatch", a bioprinting textile project in colloboration with fashion designer Piero D’Angelo.
